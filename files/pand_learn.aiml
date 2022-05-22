@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>Hi welcome to opaque shop!</template>
+</category>
+
+<category>
+	<pattern>HI</pattern>
+	<template>hello welcome to opaque shop</template>
+</category>
+
+<category>
+	<pattern>HI, IS THIS OPAQUE SHOP</pattern>
+	<template>hi yes this is indeed opaque shop</template>
+</category>
+
+<category>
+	<pattern>HI, IS THIS OPAQUE SHOP</pattern>
+	<template>hi yes this is indeed opaque shop</template>
+</category>
+
+<category>
+	<pattern>IS THIS AN ELECTRONICS SHOP?</pattern>
+	<template>Yes our shop sells electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS AN ELECTRONICS SHOP?</pattern>
+	<template>Yes our shop sells electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS AN ELECTRONICS SHOP?</pattern>
+	<template>yes our shop sells electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS AN ELECTRONICS SHOP?</pattern>
+	<template>yes our shop sells electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS AN ELECTRONICS SHOP?</pattern>
+	<template>yes customer it is</template>
+</category>
+
+<category>
+	<pattern>IS THIS AN ELECTRONICS SHOP</pattern>
+	<template>yes it is</template>
+</category>
+
+<category>
+	<pattern>DOES YOUR SHOP SELL ELECTRONICS?</pattern>
+	<template>yes it is</template>
+</category>
+
+<category>
+	<pattern>DOES YOUR SHOP SELL ELECTRONICS?</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DOES YOUR SHOP SELL ELECTRONICS?</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DOES YOUR SHOP SELL ELECTRONICS?</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DOES YOUR SHOP SELL ELECTRONICS?</pattern>
+	<template>yes</template>
+</category>
+
+<category>
+	<pattern>DO YOU SELL ELECTRONICS</pattern>
+	<template>yes we do</template>
+</category>
+
+<category>
+	<pattern>IS ELECTRONICS SOLD HERE</pattern>
+	<template>yes it is</template>
+</category>
+
+<category>
+	<pattern>WHERE IS IT LOCATED</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>LOCATION</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>LOCATION FOR SHOP</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>SHOP IS LOCATED AT</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>OK THANK YOU BYE</pattern>
+	<template>Thank you customer</template>
+</category>
+
+<category>
+	<pattern>BYE BYE</pattern>
+	<template>Thank you customer</template>
+</category>
+
+<category>
+	<pattern>BYE</pattern>
+	<template>Thank you customer</template>
+</category>
+
+</aiml>
