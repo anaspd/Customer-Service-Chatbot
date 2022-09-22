@@ -122,4 +122,29 @@
 	<template>Thank you customer</template>
 </category>
 
+<category>
+	<pattern>WHERE IS THE SHOP LOCATED</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>IS THIS A ELECTRONICS SHOP?</pattern>
+	<template>Yes we sell electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS A ELECTRONICS SHOP?</pattern>
+	<template>Yes we sell electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS A ELECTRONICS SHOP?</pattern>
+	<template>Yes we sell electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS A ELECTRONICS SHOP?</pattern>
+	<template>Yes we sell electronics</template>
+</category>
+
 </aiml>

@@ -27,4 +27,14 @@
 <template>Device is <set name="device"><star/></set></template>
 </category>
 
+<category>
+	<pattern>IS THIS A ELECTRONICS SHOP</pattern>
+	<template>Yes we sell electronics</template>
+</category>
+
+<category>
+	<pattern>IS THIS A ELECTRONICS SHOP</pattern>
+	<template>Yes we sell electronics</template>
+</category>
+
 </aiml>
